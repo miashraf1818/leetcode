@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1288-remove-covered-intervals](https://github.com/miashraf1818/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/miashraf1818/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/miashraf1818/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/miashraf1818/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -76,4 +77,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/miashraf1818/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1288-remove-covered-intervals](https://github.com/miashraf1818/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 <!---LeetCode Topics End-->

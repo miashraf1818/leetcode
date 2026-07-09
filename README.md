@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/miashraf1818/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/miashraf1818/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/miashraf1818/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/miashraf1818/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/miashraf1818/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/miashraf1818/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/miashraf1818/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/miashraf1818/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/miashraf1818/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/miashraf1818/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -42,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/miashraf1818/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/miashraf1818/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/miashraf1818/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/miashraf1818/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/miashraf1818/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/miashraf1818/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/miashraf1818/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |

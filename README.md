@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/miashraf1818/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/miashraf1818/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/miashraf1818/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/miashraf1818/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/miashraf1818/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/miashraf1818/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/miashraf1818/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/miashraf1818/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/miashraf1818/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/miashraf1818/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/miashraf1818/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/miashraf1818/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1288-remove-covered-intervals](https://github.com/miashraf1818/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/miashraf1818/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/miashraf1818/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/miashraf1818/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/miashraf1818/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/miashraf1818/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |

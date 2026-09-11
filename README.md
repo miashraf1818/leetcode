@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3312-sorted-gcd-pair-queries](https://github.com/miashraf1818/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/miashraf1818/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/miashraf1818/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/miashraf1818/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/miashraf1818/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/miashraf1818/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/miashraf1818/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/miashraf1818/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/miashraf1818/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/miashraf1818/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/miashraf1818/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/miashraf1818/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/miashraf1818/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/miashraf1818/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/miashraf1818/leetcode/tree/main/1291-sequential-digits/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/miashraf1818/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/miashraf1818/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/miashraf1818/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/miashraf1818/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Number Theory
@@ -278,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/miashraf1818/leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/miashraf1818/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

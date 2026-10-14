@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/miashraf1818/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/miashraf1818/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/miashraf1818/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/miashraf1818/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/miashraf1818/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/miashraf1818/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/miashraf1818/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3348-smallest-divisible-digit-product-ii](https://github.com/miashraf1818/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/miashraf1818/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/miashraf1818/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/miashraf1818/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/miashraf1818/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |

@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/miashraf1818/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/miashraf1818/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/miashraf1818/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/miashraf1818/leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/miashraf1818/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/miashraf1818/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## String
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3727-maximum-alternating-sum-of-squares](https://github.com/miashraf1818/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/miashraf1818/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/miashraf1818/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/miashraf1818/leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3870-count-commas-in-range](https://github.com/miashraf1818/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/miashraf1818/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/miashraf1818/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/miashraf1818/leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -327,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3483-unique-3-digit-even-numbers](https://github.com/miashraf1818/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/miashraf1818/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/miashraf1818/leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+| [3886-sum-of-sortable-integers](https://github.com/miashraf1818/leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

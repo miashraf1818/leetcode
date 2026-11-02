@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/miashraf1818/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/miashraf1818/leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/miashraf1818/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/miashraf1818/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/miashraf1818/leetcode/tree/main/1140-stone-game-ii/) | Medium |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/miashraf1818/leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/miashraf1818/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/miashraf1818/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/miashraf1818/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/miashraf1818/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/miashraf1818/leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/miashraf1818/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0836-rectangle-overlap](https://github.com/miashraf1818/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/miashraf1818/leetcode/tree/main/0877-stone-game/) | Medium |

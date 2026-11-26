@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/miashraf1818/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/miashraf1818/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/miashraf1818/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3360-stone-removal-game](https://github.com/miashraf1818/leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/miashraf1818/leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/miashraf1818/leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/miashraf1818/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -431,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/miashraf1818/leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [3360-stone-removal-game](https://github.com/miashraf1818/leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/miashraf1818/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/miashraf1818/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Combinatorics
